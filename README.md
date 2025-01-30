@@ -3,8 +3,6 @@
 This is a Railway System project built using Node.js, Express, and MySQL. It provides APIs for user authentication, train management, and booking management.
 
 ## Installation
-
-## Installation
 To get started with the project, follow these steps:
 
 1. Clone the repository:
